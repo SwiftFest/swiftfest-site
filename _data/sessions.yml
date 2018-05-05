@@ -391,6 +391,7 @@
   outcome: |
    - The structure of SwiftSyntax and how to use it to parse and generate Swift
    - How to use SyntaxVisitor to write linting/analysis tools that find real-world issues
+   - How to leverage SyntaxRewriter to automatically enforce code styles
   subtype: workshop
   complexity: "intermediate"
   speakers: [23, 32]
