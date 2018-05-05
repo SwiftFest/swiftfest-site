@@ -272,6 +272,8 @@
   id: 23
   name: "Harlan"
   surname: "Haskins"
+  bio: |
+   Harlan is a recent graduate of RIT, and an engineer on Google’s Swift Language Support Team. He is a former Apple intern on Swift, where he created SwiftSyntax. He also co-founded LLVMSwift, an organization devoted to making tools to facilitate compiler development in Swift.
   thumbnailUrl: HarlanHaskins.jpg
   rockstar: false
   social:
@@ -368,3 +370,15 @@
     - {name: "twitter", link: "https://twitter.com/ray_deck"}
     - {name: "github", link: "https://github.com/rhdeck"}
     - {name: "linkedin", link: "https://linkedin.com/in/raydeck"}
+-
+  id: 32
+  name: "Alexander"
+  surname: "Lash"
+  bio: |
+   Alex is the tech lead of Google's Swift Language Support team, the primary maintainer of google/swift, and responsible for various open-sourced and to-be-open-sourced Swift tools such as swift-format.
+  thumbnailUrl: AlexanderLash.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lexlash"}
+    - {name: "github", link: "https://github.com/abl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexlash/"}
