@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "bricks.jpg"
-heroTitle: "Swift Fest <typeout>  2018" # TODO: typeout?
+heroTitle: "SwiftFest <typeout>  2018" # TODO: typeout?
 eventDate: "June 18–19, 2018"
 typeoutTextValues: '"", "Boston", "Swift", "Engineering", "Community", "Beantown", "iOS", "Excellence"'
 typeoutFallback: "Boston"
