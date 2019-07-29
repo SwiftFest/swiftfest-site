@@ -148,3 +148,13 @@
   thumbnailUrl: MarkPralat.jpg
   type: volunteer
   social: []
+-
+  id: "18"
+  name: "Lucy"
+  surname: "Monahan"
+  title: "Team Player"
+  thumbnailUrl: LucyMonahan.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/sofetching"}
+
